@@ -6,7 +6,7 @@ import { useRouter } from "next/navigation";
 
 import { useUserAuth } from "../context/UserAuthContext";
 
-function Page() {
+function page() {
   const [values, setValues] = useState({
     email: "",
     password: "",
@@ -116,4 +116,4 @@ function Page() {
   );
 }
 
-export default Page;
+export default page;
