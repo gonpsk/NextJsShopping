@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 **** Deploy Website ****
+ดูได้ที่นี่ครับ
 https://nextjs-shop-gray.vercel.app/
 
 First, run the development server:
