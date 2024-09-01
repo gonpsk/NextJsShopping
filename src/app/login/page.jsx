@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useUserAuth } from "../context/UserAuthContext";
 
-function page() {
+function Page() {
   const [values, setValues] = useState({
     email: "",
     password: "",
@@ -76,4 +76,4 @@ function page() {
   );
 }
 
-export default page;
+export default Page;
